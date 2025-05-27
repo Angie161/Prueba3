@@ -1,4 +1,4 @@
-package src.main.java.org.example.Vistas;
+package org.example.Vistas;
 
 public class Aplicacion {
     private static Ventana v;

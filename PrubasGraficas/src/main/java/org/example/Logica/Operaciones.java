@@ -1,4 +1,4 @@
-package src.main.java.org.example.Logica;
+package org.example.Logica;
 
 public class Operaciones {
     public int a, b, resultado;

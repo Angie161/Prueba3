@@ -1,4 +1,4 @@
-package src.main.java.org.example.Vistas;
+package org.example.Vistas;
 
 import javax.swing.*;
 import java.awt.*;
